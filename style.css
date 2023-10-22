@@ -1,0 +1,113 @@
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #212121;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  max-width: 750px;
+  margin: 0 auto;
+}
+
+nav {
+  background-color: #161616;
+  padding: 10px 0;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 20px;
+  font-size: 18px;
+}
+
+#wrapper {
+  background-color: #474747;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  border-radius: 10px;
+}
+
+h1 {
+  background-color: #161616;
+  color: #fff;
+  padding: 10px 0;
+}
+
+p {
+  font-size: 18px;
+  text-align: center;
+}
+
+/* Form and input styles */
+.form {
+  margin: 20px 0;
+}
+
+label2 {
+  color: #fff;
+  font-size: 24px;
+}
+
+.guessField {
+  width: 250px;
+  height: 50px;
+  font-size: 24px;
+  text-align: center;
+  border: 5px solid #6c6d6d;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+
+.guessSubmit {
+  background-color: #141414;
+  color: #fff;
+  width: 200px;
+  height: 50px;
+  border-radius: 10px;
+  font-size: 20px;
+  border: none;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+/* Result area styles */
+.resultParas {
+  margin: 20px 0;
+  color: #fff;
+}
+
+.lastResult {
+  color: #fff;
+  padding: 7px;
+  font-size: 18px;
+}
+
+.guesses {
+  color: #fff;
+  padding: 7px;
+  font-size: 18px;
+}
+
+.lowOrHi {
+  font-size: 18px;
+}
+
+/* Button styles */
+button {
+  background-color: #3498db;
+  color: #fff;
+  width: 250px;
+  height: 50px;
+  border-radius: 25px;
+  font-size: 24px;
+  border: none;
+  margin-top: 20px;
+  cursor: pointer;
+}
