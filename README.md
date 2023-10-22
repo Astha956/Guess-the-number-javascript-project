@@ -1,2 +1,2 @@
-# javascript
-code repo javascript series pratice
+# BMI calculator html, css, javascript project
+
